@@ -1,0 +1,39 @@
+/*Smart Phoner and Tablets*/
+
+@media(max-width: 767px)
+{
+	.navbar-inverse .navbar-nav > li > a
+	{
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	.subscribe .form-control
+	{
+		margin:10px auto;
+	}
+}
+/*End*/
+
+/*Small Screen*/
+
+@media(min-width: 768px) and (max-width:991px;)
+{
+	
+}
+
+/*Medium Screeen*/
+@media(min-width: 992px) and (max-width: 1199px)
+{
+
+}
+
+/*Large Screen*/
+
+@media (min-width: 1200px)
+{
+	.carousel-caption 
+	{
+	    bottom:50px;
+	}
+
+}
